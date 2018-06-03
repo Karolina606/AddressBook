@@ -1,0 +1,3 @@
+# .gitignore for AddressBook program
+*.d
+a.out
